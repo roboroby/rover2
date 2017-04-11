@@ -39,7 +39,7 @@ const int b2 = 13;
 
 // M60 to Arduino
 // left motor 
-const int pa = 9; //pb should be 9 or 10 if you plan to call setPwmFrequency(pb, 8) for noise reduction below
+const int pa = 9; //pa should be 9 or 10 if you plan to call setPwmFrequency(pa, 8) for noise reduction below
 const int a1 = 12; 
 const int a2 = 11;
 
