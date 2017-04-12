@@ -6,7 +6,7 @@
  * Code running Rover 2 with Radio/Arduino/M60
  * 
  * Note that M60 is what we're calling the 60A High Power MOS Dual 
- * Channel H-bridge DC Motor Driver Module like you can fine here:
+ * Channel H-bridge DC Motor Driver Module like you can find here:
  * http://www.ebay.com/sch/i.html?_nkw=60A+High+Power+MOS+Dual+Channel+H-bridge+DC+Motor+Driver&_sacat=0
  * 
  * 
